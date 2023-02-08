@@ -5,10 +5,10 @@ A simple, pre-designed placeholder for parking domains. The domain name displays
 
 ### Screenshot
 
-![screenshot](/screenshot.jpg)
+![screenshot](/screenshot.png)
 
 
 ### 🙌 Thanks to:
 
-- [Ian Espinosa](https://unsplash.com/@greystorm) for the background image. [View on Unsplash](https://unsplash.com/photos/Ws92xzbSris)
+- [martylouis](https://github.com/martylouis/domain-parking-page) for the the perfectly bite sized domain landing page!
 - [Fitty](https://github.com/rikschennink/fitty) for fitting text perfectly inside it's container with vanilla javascript.
