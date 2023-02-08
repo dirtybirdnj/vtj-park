@@ -1,7 +1,7 @@
-Domain Parking Page
+verticaltubejig.com parking page
 ============
 
-A simple, pre-designed placeholder for parking domains. The domain name displays dynamically in the center.
+This is a simple page to occupy the www.verticaltubejig.com domain until work is complete on the next.js website.
 
 ### Screenshot
 
